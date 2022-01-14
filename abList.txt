@@ -477,6 +477,7 @@ ch_0390_b.prefab
 ch_0390_b_tail.prefab
 ch_0391_b.prefab
 ch_0391_b_tail.prefab
+ch_0394_b.prefab
 ch_0396_b.prefab
 ch_0397_b.prefab
 ch_0398_b.prefab
