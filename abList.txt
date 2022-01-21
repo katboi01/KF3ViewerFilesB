@@ -349,6 +349,7 @@ ch_0182_b.prefab
 ch_0182_b_ear.prefab
 ch_0182_b_tail.prefab
 ch_0188_b.prefab
+ch_0188_h.prefab
 ch_0189_b.prefab
 ch_0191_b.prefab
 ch_0191_b_tail.prefab
@@ -414,6 +415,7 @@ ch_0264_b.prefab
 ch_0265_b.prefab
 ch_0267_b.prefab
 ch_0273_b.prefab
+ch_0275_b.prefab
 ch_0276_b.prefab
 ch_0282_b.prefab
 ch_0282_h.prefab
@@ -478,6 +480,7 @@ ch_0390_b_tail.prefab
 ch_0391_b.prefab
 ch_0391_b_tail.prefab
 ch_0394_b.prefab
+ch_0395_b.prefab
 ch_0396_b.prefab
 ch_0397_b.prefab
 ch_0398_b.prefab
