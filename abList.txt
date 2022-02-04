@@ -260,6 +260,7 @@ ch_0097_b.prefab
 ch_0098_b.prefab
 ch_0099_b.prefab
 ch_0100_b.prefab
+ch_0100_h.prefab
 ch_0101_b.prefab
 ch_0102_b.prefab
 ch_0103_b.prefab
@@ -353,6 +354,7 @@ ch_0188_h.prefab
 ch_0189_b.prefab
 ch_0191_b.prefab
 ch_0191_b_tail.prefab
+ch_0192_b.prefab
 ch_0193_b.prefab
 ch_0195_b.prefab
 ch_0196_b.prefab
