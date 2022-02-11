@@ -419,6 +419,7 @@ ch_0267_b.prefab
 ch_0273_b.prefab
 ch_0275_b.prefab
 ch_0276_b.prefab
+ch_0277_b.prefab
 ch_0282_b.prefab
 ch_0282_h.prefab
 ch_0284_b.prefab
