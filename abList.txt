@@ -302,6 +302,7 @@ ch_0133_b.prefab
 ch_0133_b_ear.prefab
 ch_0134_b.prefab
 ch_0134_b_tail.prefab
+ch_0135_b.prefab
 ch_0136_b.prefab
 ch_0138_b.prefab
 ch_0140_b.prefab
