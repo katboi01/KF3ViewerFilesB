@@ -329,6 +329,7 @@ ch_0161_b.prefab
 ch_0161_b_ear.prefab
 ch_0161_b_tail.prefab
 ch_0161_h.prefab
+ch_0162_b.prefab
 ch_0165_b.prefab
 ch_0165_b_ear.prefab
 ch_0166_b.prefab
